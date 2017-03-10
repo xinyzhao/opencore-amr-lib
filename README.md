@@ -1,9 +1,8 @@
 # opencore-amr-lib
+==================
 Build script and shared libraries for opencore-amr-iOS
 
----
-
-### Build a static library with bitcode enabled
+## Build a static library with bitcode enabled
 
 1. Download the source code [opencore-amr-iOS](https://github.com/feuvan/opencore-amr-iOS)
 2. Copy and Save the code below to `build_ios_bitcode.sh`
@@ -94,7 +93,7 @@ done
 
 ```
 
-### References
+## References
 > [https://github.com/xinyzhao/opencore-amr-lib](https://github.com/xinyzhao/opencore-amr-lib)<br>
 > [https://github.com/feuvan/opencore-amr-iOS](https://github.com/feuvan/opencore-amr-iOS)<br>
 > [http://blog.csdn.net/chaoyuan899/article/details/51722496](http://blog.csdn.net/chaoyuan899/article/details/51722496)
